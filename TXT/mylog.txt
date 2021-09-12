@@ -11,3 +11,5 @@ ZCZC W01  15 L15 Assignment #05
 ZCZC W01  30 L13 Assignment #03 learn some basic linux commands
 ZCZC W01  100 L02 ZOOM meetings related
 ZCZC W01  10 L17 Assignment #07
+ZCZC W01  10 L16 Assignment #06 create index.md and links.md
+ZCZC W01  30 L20 Assignment #10 read OSC
