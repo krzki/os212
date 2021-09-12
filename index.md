@@ -2,6 +2,6 @@
 
 # Operating System 2021-1
 
-Hi, I'm Rizki Kurniawan. This is my github page for Operating System class.
+Hi, My name is Rizki Kurniawan. This is my github page for Operating System class.
 
 [4]:https://github.com/krzki/os212
