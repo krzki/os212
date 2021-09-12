@@ -4,12 +4,13 @@
 ZCZC W00  20 L03 GitHub related
 ZCZC W00  10 L04 GitHub Page related
 ZCZC W00  90 L06 References/Books/Documents/GSGS related
-ZCZC W01  60 L10 Assignment #00
-ZCZC W01  60 L11 Assignment #01 Option 2: Installing Debian ISO
-ZCZC W01  15 L14 Assignment #04
-ZCZC W01  15 L15 Assignment #05
-ZCZC W01  30 L13 Assignment #03 learn some basic linux commands
-ZCZC W01  100 L02 ZOOM meetings related
-ZCZC W01  10 L17 Assignment #07
+ZCZC W01  200 L02 ZOOM meetings related
+ZCZC W01  60 L11 Assignment #01 VirtualBox Preparation
+ZCZC W01  60 L12 Assignment #02 Option 2: Installing Debian ISO
+ZCZC W01  30 L13 Assignment #03 learn some basic linux and vi commands
+ZCZC W01  15 L14 Assignment #04 Dress up virtual guest
+ZCZC W01  15 L15 Assignment #05 SSH-key related and git cloning
 ZCZC W01  10 L16 Assignment #06 create index.md and links.md
+ZCZC W01  10 L17 Assignment #07 update mylog
+ZCZC W01  30 L18 Assignment #08 learn regex
 ZCZC W01  30 L19 Assignment #09 read OSC
