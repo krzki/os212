@@ -1,4 +1,4 @@
-[**HOME**](https://krzki.github.io/os212/) | [**LINKS**](https://krzki.github.io/os212/LINKS/) | [**LOG**](https://krzki.github.io/os212/TXT/mylog.txt) | [**GitHub**][4]
+[**HOME**](https://krzki.github.io/os212/) | [**LINKS**](https://krzki.github.io/os212/LINKS/) | [**KEY**](https://krzki.github.io/os212/TXT/mypubkey.txt) | [**LOG**](https://krzki.github.io/os212/TXT/mylog.txt) | [**GitHub**][4]
 
 # Operating System 2021-2
 
