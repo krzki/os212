@@ -23,6 +23,8 @@ ZCZC W02  2 L15 Assignment #05 List all GnuPG Keys
 ZCZC W02  3 L16 Assignment #06 Import ospubkey.txt
 ZCZC W02  5 L17 Assignment #07 Signing the OS public key
 ZCZC W02  5 L18 Assignment #08 Export mypubkey to my repo
-ZCZC W02  10 L19 Assignment #09 Update bookmark link
+ZCZC W02  10 L19 Assignment #09 Update my bookmark link for Week02
+ZCZC W02  5 L20 Assignment #10 Review my peer links for Week02
 ZCZC W02  5 L09 Assignment in General Copy cbkadals myscript.sh
+ZCZC W02  10 L09 Assignment in General Update mylog.txt
 ZCZC W02  5 L09 Assignment in General Create script to generate SHA256SUM and SHA256SUM.asc 
