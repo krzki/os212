@@ -14,3 +14,7 @@ As i just started using vi, i find that this tutorial is quite helpful. This sit
 
 3. [Regular Expression](https://riptutorial.com/regex) <br>
 I think that you can find all information about regex in this site. You can get nice short explanation on regex concepts. If you are interested, you can also learn how regex work. This site also has the ebook version that can be downloaded for free.
+
+### Week 02
+1. [C language Introduction](https://www.programiz.com/c-programming/c-variables-constants) <br>
+This site combines short explanation and program example to explain C programming concept. On pointer chapter, this site also provide illustrations on how pointer in C work.      
