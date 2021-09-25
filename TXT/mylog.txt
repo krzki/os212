@@ -27,4 +27,12 @@ ZCZC W02  10 L19 Assignment #09 Update my bookmark link for Week02
 ZCZC W02  5 L20 Assignment #10 Review my peer links for Week02
 ZCZC W02  5 L09 Assignment in General Copy cbkadals myscript.sh
 ZCZC W02  10 L09 Assignment in General Update mylog.txt
-ZCZC W02  5 L09 Assignment in General Create script to generate SHA256SUM and SHA256SUM.asc 
+ZCZC W02  5 L09 Assignment in General Create script to generate SHA256SUM and SHA256SUM.asc
+ZCZC W03  132 L02 ZOOM meetings related
+ZCZC W03  60 L11 Assignment #01 Read OSC Chapter 13 and 14
+ZCZC W03  15 L12 Assignment #02 Try demos Week03
+ZCZC W03  15 L13 Assignment #03 Try previous Mid Term problem
+ZCZC W03  15 L14 Assignment #04 Update ".bash_aliases" file
+ZCZC W03  20 L15 Assignment #05 Create An External Virtual Disk
+ZCZC W03  5 L18 Assignment #08 Update mylog.txt
+ZCZC W03  10 L01 Scele related 
