@@ -17,4 +17,10 @@ I think that you can find all information about regex in this site. You can get 
 
 ### Week 02
 1. [C language Introduction](https://www.programiz.com/c-programming/c-variables-constants) <br>
-This site combines short explanation and program example to explain C programming concept. On pointer chapter, this site also provide illustrations on how pointer in C work.      
+This site combines short explanation and program example to explain C programming concept. On pointer chapter, this site also provide illustrations on how pointer in C work.
+
+### Week 03
+1. [C File IO](https://www.guru99.com/c-file-input-output.html) <br>
+As we mainly focus on File System on Week03, I think that this site which provide some useful functions for file operation in C may be helpful. Similar to [C language Introduction] this site also has short explanation followed by an example.
+2. [Volume vs Partition](https://www.alphr.com/volume-vs-partition/) <br>
+While reading OSC for weekly assignment, even though I often hear about Volume and Partition, I still do not really know what is volume and partition in OS and how it differ from each other. After doing some online search, I found this site which give nice explanation on partition and volume. I recommand this site if you want to know more about volume and partition. 
