@@ -41,8 +41,12 @@ ZCZC W03  15 L19 Assignment #09 Revise myscript.sh
 ZCZC W03  10 L01 Scele related
 ZCZC W04  200 L02 ZOOM meetings related
 ZCZC W04  90 L11 Assignment #01 Read OSC Chapter 9 Main Memory
+ZCZC W04  60 L12 Assignment #02 Try demos for Week04
+ZCZC W04  30 L13 Assignment #03 Try previous mid problem 
 ZCZC W04  30 L14 Assignment #04 Install package list 2
 ZCZC W04  15 L15 Assignment #05 Fetch and Extract "WEEK04.tar.bz2.asc"
 ZCZC W04  10 L16 Assignment #06 Update Bookmark Link for Week04
+ZCZC W04  10 L17 Assignemnt #07 Review peer links for Week04
 ZCZC W04  5 L18 Assignment #08 Update mylog.txt
+ZCZC W04  5 L19 Assignment #09 Run myscript.sh and submit assignment for Week04
 ZCZC W04  10 L01 Scele related
