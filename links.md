@@ -24,4 +24,8 @@ This site combines short explanation and program example to explain C programmin
 As we mainly focus on File System on Week03, I think that this site which provide some useful functions for file operation in C may be helpful. Similar to C language Introduction on Week02, this site also has short explanation followed by an example.
 
 2. [Volume vs Partition](https://www.alphr.com/volume-vs-partition/) <br>
-While reading OSC for weekly assignment, even though I often hear about Volume and Partition, I still do not really know what is volume and partition in OS and how it differ from each other. After doing some online search, I found this site which give nice explanation on partition and volume. I recommand this site if you want to know more about volume and partition. 
+While reading OSC for weekly assignment, even though I often hear about Volume and Partition, I still do not really know what is volume and partition in OS and how it differ from each other. After doing some online search, I found this site which give nice explanation on partition and volume. I recommand this site if you want to know more about volume and partition.
+
+### Week 04
+1. [Dynamic Memory Allocation](https://www.javatpoint.com/dynamic-memory-allocation-in-c) <br>
+Dynamic memory allocation is a concept that can be used to deal with data that we do not know the size of it before running time. This site gives a nice explanation on how to implement dynamic memory allocation in C using functions available in *stdlib.h*.
