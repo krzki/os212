@@ -50,3 +50,10 @@ ZCZC W04  10 L17 Assignemnt #07 Review peer links for Week04
 ZCZC W04  5 L18 Assignment #08 Update mylog.txt
 ZCZC W04  5 L19 Assignment #09 Run myscript.sh and submit assignment for Week04
 ZCZC W04  10 L01 Scele related
+ZCZC W05  15 L01 Scele related
+ZCZC W05  180 L02 ZOOM meetings related
+ZCZC W05  120 L11 Assignment #01 Read OSC Chapter 10 Virtual Memory
+ZCZC W05  30 L13 Assignment #03 Try Previous mid problem
+ZCZC W05  90 L14 Assignment #04 Lowest memory for running guest 190 MB
+ZCZC W05  15 L15 Assignment #05 Update Bookmark link for week05
+ZCZC W05  7 L18 Assignment #08 Update mylog.txt

@@ -29,3 +29,7 @@ While reading OSC for weekly assignment, even though I often hear about Volume a
 ### Week 04
 1. [Dynamic Memory Allocation](https://www.javatpoint.com/dynamic-memory-allocation-in-c) <br>
 Dynamic memory allocation is a concept that can be used to deal with data that we do not know the size of it before running time. This site gives a nice explanation on how to implement dynamic memory allocation in C using functions available in *stdlib.h*.
+
+### Week 05
+1. [Page Replacement](https://mycareerwise.com/content/introduction-of-page-replacement/content/exam/gate/computer-science) <br>
+This site provides some questions and answers related to Page Replacement. You can use this site to review what You have learnt from the OSC book.
