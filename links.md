@@ -33,3 +33,7 @@ Dynamic memory allocation is a concept that can be used to deal with data that w
 ### Week 05
 1. [Page Replacement](https://mycareerwise.com/content/introduction-of-page-replacement/content/exam/gate/computer-science) <br>
 This site provides some questions and answers related to Page Replacement. You can use this site to review what You have learnt from the OSC book.
+
+### Week 06
+1. [Fork](https://www.csl.mtu.edu/cs4411.ck/www/NOTES/process/fork/create.html) <br>
+Fork is a function that we can use to create a new Process. This site has a nice illustration on how fork work. 
