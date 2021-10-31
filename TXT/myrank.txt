@@ -11,3 +11,6 @@ ZCZC W04 nafhansyandana
 ZCZC W05 naufalpram
 ZCZC W05 orelar
 ZCZC W05 pragusga25
+ZCZC W06 rahadianpanji
+ZCZC W06 rakazet
+ZCZC W06 rakharayhan

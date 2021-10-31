@@ -68,4 +68,7 @@ ZCZC W06  180 L11 Assignment #01 Read OSC Chapter 3 and 4
 ZCZC W06  45 L12 Assignment #02 Try Demos for Week06
 ZCZC W06  30 L13 Assignment #03 Try Previous mid problem
 ZCZC W06  40 L14 Assignment #04 Fork and Shared memmory
-ZCZC W06  15 L15 Assignment #05 Update Bookmark link for Week06 
+ZCZC W06  15 L15 Assignment #05 Update Bookmark link for Week06
+ZCZC W06  10 L17 Assignment #07 Review peer links for Week06
+ZCZC W06  10 L18 Assignment #08 update mylog.txt
+ZCZC W06  5 L19 Assignment #09 Submit Assignment Week06
