@@ -36,4 +36,11 @@ This site provides some questions and answers related to Page Replacement. You c
 
 ### Week 06
 1. [Fork](https://www.csl.mtu.edu/cs4411.ck/www/NOTES/process/fork/create.html) <br>
-Fork is a function that we can use to create a new Process. This site has a nice illustration on how fork work. 
+Fork is a function that we can use to create a new Process. This site has a nice illustration on how fork work.
+
+### Week 07
+1. [Mutex and Semaphore](https://www.guru99.com/mutex-vs-semaphore.html)
+Mutex and semaphore can be considered as traditional synchronization. This site gives a nice summary on the difference between Mutex and Semaphore strategy.
+
+2. [Monitor](https://www.tutorialandexample.com/monitors-in-operating-system/)
+Monitor is synchronization tool that usually present in high level language. This site has a nice explanation on we can use Monitor to solve the critical section problem.
