@@ -43,4 +43,4 @@ Fork is a function that we can use to create a new Process. This site has a nice
 Mutex and semaphore can be considered as traditional synchronization. This site gives a nice summary on the difference between Mutex and Semaphore strategy.
 
 2. [Monitor](https://www.tutorialandexample.com/monitors-in-operating-system/) <br>
-Monitor is synchronization tool that usually present in a high level language. This site has a nice explanation on we can use Monitor to solve the critical section problem.
+Monitor is synchronization tool that usually present in a high level language. This site has a nice explanation on how we can use Monitor to solve the critical section problem.
