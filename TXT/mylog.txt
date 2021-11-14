@@ -85,7 +85,7 @@ ZCZC W07  2 L19 Assignment #09 Submit Week07
 ZCZC W08  90 L02 ZOOM Meetings related
 ZCZC W08  90 L11 Assignment #01 Read OSC Chapter 5
 ZCZC W08  30 L12 Assignment #02 Try Demos for Week08
-ZCZC W08  30 Try Assignment #03 Try previous final term problem
+ZCZC W08  30 L13 Assignment #03 Try previous final term problem
 ZCZC W08  60 L14 Assignment #04 LFS Chapter 01-04
 ZCZC W08 120 L15 Assignment #05 LFS Chapter 05
 ZCZC W08  30 L16 Assignment #06 Update bookmark links
