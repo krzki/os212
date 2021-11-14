@@ -44,3 +44,7 @@ Mutex and semaphore can be considered as traditional synchronization. This site 
 
 2. [Monitor](https://www.tutorialandexample.com/monitors-in-operating-system/) <br>
 Monitor is synchronization tool that usually present in a high level language. This site has a nice explanation on how we can use Monitor to solve the critical section problem.
+
+### Week 08
+1. [CPU Scheduling](https://www.studytonight.com/operating-system/cpu-scheduling) <br>
+This site has nice explanation on CPU Sceduling. This site also provides simple program to illustrate the cpu scheduling algorithm.
