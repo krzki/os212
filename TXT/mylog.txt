@@ -84,8 +84,11 @@ ZCZC W07  5 L18 Assignment #08 Update mylog.txt
 ZCZC W07  2 L19 Assignment #09 Submit Week07
 ZCZC W08  90 L02 ZOOM Meetings related
 ZCZC W08  90 L11 Assignment #01 Read OSC Chapter 5
-ZCZC W08  30 Try Demos for Week08
-ZCZC W08  30 Try previous final term problem
+ZCZC W08  30 L12 Assignment #02 Try Demos for Week08
+ZCZC W08  30 Try Assignment #03 Try previous final term problem
 ZCZC W08  60 L14 Assignment #04 LFS Chapter 01-04
 ZCZC W08 120 L15 Assignment #05 LFS Chapter 05
 ZCZC W08  30 L16 Assignment #06 Update bookmark links
+ZCZC W08  15 L18 Assignment #08 Review peer links for week08
+ZCZC W08  5 L19 Assignment #09 Update mylog.txt
+ZCZC W08  2 L10 Assignment #10 Submit Assignment Week08
