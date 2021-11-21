@@ -51,4 +51,4 @@ This site has nice explanation on CPU Sceduling. This site also provides simple 
 
 ### Week 09
 1. [RAID](https://www.prepressure.com/library/technology/raid) <br>
-This site provides a summary on how RAID 0, 1, 5, 6, and 10 works.
+This site provides a summary on how RAID 0, 1, 5, 6, and 10 work.
